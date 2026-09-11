@@ -54,7 +54,7 @@ Ripes disassembly: `jal x1 44 <factorial>`
 
 ### 32-bit encoding
 
-    0000 0001 0110 0000 0000 1000 0110 1111  =  0x0160086F
+    0000 0010 1100 0000 0000 0000 0000 1110 1111  =  0x02C000EF
 
 ### Field split (J-type)
 
